@@ -1,0 +1,154 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+nav{
+    background-color:black;
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    row-gap: 15px;
+    height: 50px;
+    
+    
+    
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    margin: center;
+}
+li:hover{
+  cursor: pointer;
+  color: aquamarine;
+}
+
+.ashish1{
+    position: absolute;
+    left: 125px;
+    font-size: 25px;
+  }
+  
+  .ashish{
+    position: absolute;
+    left: 100px;
+    color: aquamarine;
+  }
+  
+  .harsh13{
+    margin-top: 5px;
+    position: absolute;
+    right:25px;
+    color: black;
+   
+    cursor: pointer;
+    border: 0.005px solid  #29d9d5;
+    border-radius: 4px;
+    background-color: bisque;
+  }
+li a{
+    padding:10px;
+}
+li a:hover
+{
+    color:green;
+}
+
+  .harsh13:hover{
+    cursor: pointer;
+    background-color: #29d9d5;
+  }
+  .box{
+    position:relative;
+    right:10px;
+    top:3px;
+    padding:10px,10px;
+  }
+  .b1{
+    object-fit:cover;
+  }
+  .im2{
+    background-image: url(https://img.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58931.jpg?w=2000);
+   object-fit:cover;
+    height:800px;
+ width:1300px;
+}
+.t1{
+    position:absolute;
+    font-size:50px;
+    top: 300px;
+    left:750px;
+}
+.ph1{
+    height:300px;
+    width:400px;
+    border:solid,black;
+    position:absolute;
+    top:200px;
+}
+.ph2{
+    height:450px;
+    width:300px;
+    position:absolute;
+    left:40px;
+    margin-top:100px;
+    border:40px,solid,white;
+    border-radius:7px;
+
+}
+.but{
+    position:absolute;
+    left:750px;
+    top:450px;
+    height:50px;
+    width:150px;
+    border-radius:50px;
+}
+.p2 h1{
+    text-align:center;
+}
+.i1,.i2,.i3,.i4{
+    padding:40px;
+}
+.cart{
+    position: absolute;
+    left:130px;
+
+}
+.cart2{
+    position:absolute;
+    left:150px;
+    top:1200px;
+    padding:40px;
+
+    gap:30px;
+
+}
+
+.tho{
+    background-image: url(https://imgs.search.brave.com/S0myC5NMRs7Ru-NnPT7JSR8kgIzARgeDXWhiTLEaiRU/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5x/N2hDQjEzVmY4R3hr/RzNDRF93Y2pRSGFF/SyZwaWQ9QXBp);
+    height: 200px;
+    color: white;
+    font-size: 50px;
+    
+  
+  
+  }
+  text{
+      position: absolute;
+      margin-left: 40%;
+      margin-top: 5%;
+  }
+  .p3{
+    
+  }
